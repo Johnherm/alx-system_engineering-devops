@@ -4,4 +4,5 @@
 2)Display the content of the /etc/passwd file.
 3) Display the content of /etc/passwd and /etc/hosts
 4)Last lines of a file
-5)prefer the first ones actually 
+5)prefer the first ones actually
+6) a script that displays the third line of the file iacta. 
