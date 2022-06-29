@@ -9,6 +9,4 @@
 7) a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 8)a script that writes into the file ls_cwd_content the result of the command ls -la
 9) a script that duplicates the last line of the file iacta
-10) a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
-
-
+10) a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders

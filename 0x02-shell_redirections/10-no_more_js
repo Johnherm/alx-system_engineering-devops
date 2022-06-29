@@ -1,2 +1,2 @@
 #!/bin/bahs
-file -name "*.js" -type f -delet
+file -name "*.js" -type f -delete
