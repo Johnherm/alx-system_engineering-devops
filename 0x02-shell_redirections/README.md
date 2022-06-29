@@ -7,3 +7,4 @@
 5)prefer the first ones actually
 6) a script that displays the third line of the file iacta. 
 7) a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+8)a script that writes into the file ls_cwd_content the result of the command ls -la

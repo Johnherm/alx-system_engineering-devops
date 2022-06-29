@@ -1,0 +1,41 @@
+total 44
+4 -rwxr-xr-x 1 root root  34 Jun 29 12:18 0-hello_world
+4 -rwxr-xr-x 1 root root  29 Jun 29 12:18 1-confused_smiley
+4 -rwxr-xr-x 1 root root  29 Jun 29 12:18 2-hellofile
+4 -rwxr-xr-x 1 root root  39 Jun 29 12:18 3-twofiles
+4 -rwxr-xr-x 1 root root  29 Jun 29 12:18 4-lastlines
+4 -rwxr-xr-x 1 root root  29 Jun 29 12:18 5-firstlines
+4 -rwxr-xr-x 1 root root  39 Jun 29 12:18 6-third_line
+4 -rwxr--r-- 1 root root  12 Jun 29 12:28 7-file
+4 -rwxr--r-- 1 root root  78 Jun 29 12:53 *\"Best School"\\*$?*****:)
+4 -rw-r--r-- 1 root root 109 Jun 29 12:18 iacta
+0 -rw-r--r-- 1 root root   0 Jun 29 13:09 ls_cwd_content
+4 -rw-r--r-- 1 root root 378 Jun 29 12:58 README.md
+total 48
+drwxr-xr-x 2 root root 249 Jun 29 13:09 .
+drwxr-xr-x 5 root root  91 Jun 29 12:18 ..
+-rwxr-xr-x 1 root root  34 Jun 29 12:18 0-hello_world
+-rwxr-xr-x 1 root root  29 Jun 29 12:18 1-confused_smiley
+-rwxr-xr-x 1 root root  29 Jun 29 12:18 2-hellofile
+-rwxr-xr-x 1 root root  39 Jun 29 12:18 3-twofiles
+-rwxr-xr-x 1 root root  29 Jun 29 12:18 4-lastlines
+-rwxr-xr-x 1 root root  29 Jun 29 12:18 5-firstlines
+-rwxr-xr-x 1 root root  39 Jun 29 12:18 6-third_line
+-rwxr--r-- 1 root root  12 Jun 29 12:28 7-file
+-rwxr--r-- 1 root root  78 Jun 29 12:53 *\"Best School"\\*$?*****:)
+-rw-r--r-- 1 root root 109 Jun 29 12:18 iacta
+-rw-r--r-- 1 root root 672 Jun 29 13:09 ls_cwd_content
+-rw-r--r-- 1 root root 378 Jun 29 12:58 README.md
+total 48
+4 -rwxr-xr-x 1 root root   34 Jun 29 12:18 0-hello_world
+4 -rwxr-xr-x 1 root root   29 Jun 29 12:18 1-confused_smiley
+4 -rwxr-xr-x 1 root root   29 Jun 29 12:18 2-hellofile
+4 -rwxr-xr-x 1 root root   39 Jun 29 12:18 3-twofiles
+4 -rwxr-xr-x 1 root root   29 Jun 29 12:18 4-lastlines
+4 -rwxr-xr-x 1 root root   29 Jun 29 12:18 5-firstlines
+4 -rwxr-xr-x 1 root root   39 Jun 29 12:18 6-third_line
+4 -rwxr--r-- 1 root root   12 Jun 29 12:28 7-file
+4 -rwxr--r-- 1 root root   78 Jun 29 12:53 *\"Best School"\\*$?*****:)
+4 -rw-r--r-- 1 root root  109 Jun 29 12:18 iacta
+4 -rwxr--r-- 1 root root 1405 Jun 29 13:10 ls_cwd_content
+4 -rw-r--r-- 1 root root  378 Jun 29 12:58 README.md
