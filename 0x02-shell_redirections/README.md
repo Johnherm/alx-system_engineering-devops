@@ -6,3 +6,4 @@
 4)Last lines of a file
 5)prefer the first ones actually
 6) a script that displays the third line of the file iacta. 
+7) a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
