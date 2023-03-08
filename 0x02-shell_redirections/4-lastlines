@@ -1,0 +1,2 @@
+#!/bin/bash
+tail etc/passwd //or tail -10 etc/passwd or tail -n 10 etc/passwd
