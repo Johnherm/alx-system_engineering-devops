@@ -1,0 +1,13 @@
+total 17
+drwxr-xr-x 1 free user 197121   0 Mar  8 08:57 ./
+drwxr-xr-x 1 free user 197121   0 Mar  8 08:32 ../
+-rwxr-xr-x 1 free user 197121  34 Mar  8 08:32 0-hello_world*
+-rwxr-xr-x 1 free user 197121  56 Mar  8 08:32 1-confused_smiley*
+-rwxr-xr-x 1 free user 197121  29 Mar  8 08:32 2-hellofile*
+-rwxr-xr-x 1 free user 197121 127 Mar  8 08:32 3-twofiles*
+-rwxr-xr-x 1 free user 197121  80 Mar  8 08:32 4-lastlines*
+-rwxr-xr-x 1 free user 197121  80 Mar  8 08:32 5-firstlines*
+-rwxr-xr-x 1 free user 197121  37 Mar  8 08:32 6-third_line*
+-rwxr-xr-x 1 free user 197121  76 Mar  8 08:52 7-files*
+-rw-r--r-- 1 free user 197121  19 Mar  8 08:32 README.md
+-rw-r--r-- 1 free user 197121   0 Mar  8 08:57 ls_cwd_content
