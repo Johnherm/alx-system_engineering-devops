@@ -1,2 +1,2 @@
 #!/bi/bash
-echo "hello user"
+echo hello $USERNAME
